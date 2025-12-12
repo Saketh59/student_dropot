@@ -19,6 +19,7 @@
         "jspdf": "^3.0.4",
         "jspdf-autotable": "^5.0.2",
         "mongoose": "^9.0.1",
-        "nodemailer": "^7.0.11"
+        "nodemailer": "^7.0.11",
+        "xlsx": "^0.18.5"
     }
 }
